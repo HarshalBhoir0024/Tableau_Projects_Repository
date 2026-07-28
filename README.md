@@ -16,7 +16,9 @@ Calculated Fields and Parameters
 Dashboard Actions and Filters
 KPI tracking and performance monitoring
 Data storytelling and business insights
+
 🛠️ Tools & Technologies
+
 Tableau Desktop
 Tableau Public
 Microsoft Excel
@@ -27,7 +29,6 @@ Parameters
 Filters & Actions
 Data Blending & Relationships
 Geographic Maps
-
 
 📂 Repository Structure
 
@@ -41,8 +42,8 @@ Project Folder
 ├── Project Documentation
 └── README.md
 
-
 📈 Key Skills Demonstrated
+
 Data Cleaning & Preparation
 Interactive Dashboard Design
 Business Reporting
@@ -56,6 +57,7 @@ Filters & Parameters
 Data Storytelling
 Business Intelligence Reporting
 
+
 🎯 Project Objectives
 
 The projects in this repository focus on:
@@ -66,9 +68,11 @@ Supporting data-driven decision-making
 Monitoring key business KPIs
 Identifying trends and business opportunities
 Improving reporting efficiency through visualization
+
 📸 Dashboard Previews
 
 Dashboard screenshots and project documentation can be found within each individual project folder.
+
 
 📬 Connect With Me
 
@@ -78,4 +82,6 @@ GitHub: https://github.com/HarshalBhoir0024
 
 LinkedIn: https://www.linkedin.com/in/harshal-bhoir-7729a8237/
 
+
 ⭐ If you find this repository helpful, feel free to explore the projects, share your feedback, and consider giving it a ⭐ Star.
+
