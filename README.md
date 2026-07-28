@@ -37,9 +37,13 @@ Each project is organized in its own folder and may contain:
 Project Folder
 │
 ├── Dashboard Screenshots
+
 ├── Tableau Workbook (.twb / .twbx)
+
 ├── Dataset (if shareable)
+
 ├── Project Documentation
+
 └── README.md
 
 📈 Key Skills Demonstrated
