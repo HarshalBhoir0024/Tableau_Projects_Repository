@@ -1,91 +1,85 @@
-📊 Tableau Projects Portfolio
+# 📊 Tableau Projects Portfolio
 
-Welcome to my Tableau Projects Repository.
+Welcome to my Tableau Projects repository — a collection of dashboards and visualizations built to solve real business problems, uncover insights, and turn raw data into stories that drive decisions.
 
-This repository contains a collection of Tableau projects developed to solve business problems, analyze data, and create interactive dashboards. The projects cover multiple business domains and demonstrate data visualization, business intelligence, KPI reporting, dashboard design, and data storytelling skills.
+Each project here reflects hands-on work across different business domains, with a focus on clean design, meaningful KPIs, and interactive storytelling.
 
-🚀 About This Repository
+---
 
-The purpose of this repository is to showcase:
+## 🚀 About This Repository
 
-Data visualization skills
-Interactive dashboard development
-Business intelligence solutions
-Data analysis and reporting
-Calculated Fields and Parameters
-Dashboard Actions and Filters
-KPI tracking and performance monitoring
-Data storytelling and business insights
+This repository is a showcase of:
 
-🛠️ Tools & Technologies
+- Data visualization and interactive dashboard development
+- Business intelligence solutions for real-world use cases
+- Data analysis, reporting, and KPI tracking
+- Calculated fields, parameters, filters, and dashboard actions
+- Data storytelling that turns numbers into narratives
 
-Tableau Desktop
-Tableau Public
-Microsoft Excel
-SQL
-CSV Files
-Calculated Fields
-Parameters
-Filters & Actions
-Data Blending & Relationships
-Geographic Maps
+---
 
-📂 Repository Structure
+## 🛠️ Tools & Technologies
 
-Each project is organized in its own folder and may contain:
+| Category | Tools |
+|---|---|
+| Visualization | Tableau Desktop, Tableau Public |
+| Data Prep | Microsoft Excel, SQL, CSV Files |
+| Tableau Features | Calculated Fields, Parameters, Filters & Actions, Data Blending & Relationships, Geographic Maps |
 
-Project Folder
+---
+
+## 📂 Repository Structure
+
+Each project lives in its own folder and typically includes:
+
+```
+Project Folder/
 │
 ├── Dashboard Screenshots
-
 ├── Tableau Workbook (.twb / .twbx)
-
 ├── Dataset (if shareable)
-
 ├── Project Documentation
-
 └── README.md
+```
 
-📈 Key Skills Demonstrated
+---
 
-Data Cleaning & Preparation
-Interactive Dashboard Design
-Business Reporting
-KPI Development
-Data Visualization
-Trend Analysis
-Geographic Analysis
-Customer & Sales Analytics
-Dashboard Actions
-Filters & Parameters
-Data Storytelling
-Business Intelligence Reporting
+## 📈 Key Skills Demonstrated
 
+- Data cleaning & preparation
+- Interactive dashboard design
+- Business reporting & KPI development
+- Trend and geographic analysis
+- Customer & sales analytics
+- Dashboard actions, filters, and parameters
+- Data storytelling & BI reporting
 
-🎯 Project Objectives
+---
 
-The projects in this repository focus on:
+## 🎯 Project Objectives
 
-Transforming raw data into meaningful insights
-Building interactive business dashboards
-Supporting data-driven decision-making
-Monitoring key business KPIs
-Identifying trends and business opportunities
-Improving reporting efficiency through visualization
+Every project in this repository aims to:
 
-📸 Dashboard Previews
+- Transform raw data into meaningful, actionable insights
+- Build interactive dashboards that support decision-making
+- Monitor key business KPIs in real time
+- Surface trends and business opportunities
+- Improve reporting efficiency through better visualization
 
-Dashboard screenshots and project documentation can be found within each individual project folder.
+---
 
+## 📸 Dashboard Previews
 
-📬 Connect With Me
+Screenshots and detailed documentation for each dashboard are available inside their respective project folders.
 
-👤 Harshal Bhoir
+---
 
-GitHub: https://github.com/HarshalBhoir0024
+## 📬 Connect With Me
 
-LinkedIn: https://www.linkedin.com/in/harshal-bhoir-7729a8237/
+**👤 Harshal Bhoir**
+- GitHub: [HarshalBhoir0024](https://github.com/HarshalBhoir0024)
+- LinkedIn: [harshal-bhoir](https://www.linkedin.com/in/harshal-bhoir-7729a8237/)
 
+---
 
-⭐ If you find this repository helpful, feel free to explore the projects, share your feedback, and consider giving it a ⭐ Star.
-
+⭐ If you find this repository helpful, feel free to explore the projects, share feedback, and consider giving it a star!
